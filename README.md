@@ -1,4 +1,4 @@
-# node-rest-express [7-s]
+# node-rest-express [main]
 
 ## Install
 
