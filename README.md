@@ -1,4 +1,4 @@
-# node-rest-express [main]
+# node-rest-express [8-s]
 
 ## Install
 
@@ -29,8 +29,12 @@ http://localhost:3000/products/12
 http://localhost:3000/products/15
 http://localhost:3000/products/sdsd3434
 
-http://localhost:3000/categories/
-http://localhost:3000/categories/5555/products/111
-http://localhost:3000/categories/6666/products/222
+http://localhost:3000/products?size=5
+http://localhost:3000/products?size=10
+http://localhost:3000/products?size=20
+http://localhost:3000/products?size=100
+
+http://localhost:3000/users/
+http://localhost:3000/users?limit=10&offset=200
 
 ```
